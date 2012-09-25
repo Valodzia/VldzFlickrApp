@@ -1,0 +1,3 @@
+class PictureFinderController < ApplicationController
+
+end
